@@ -1,5 +1,5 @@
 #
-# Creates an OrientDB database using a volume on local filesystem (e.g. /data/orientdb)
+# Creates an OrientDB docker container using a volume on local filesystem (e.g. /data/orientdb)
 #
 ODBPWD=$1
 
